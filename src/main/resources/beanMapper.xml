@@ -1,0 +1,39 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<mappings xmlns="http://dozer.sourceforge.net"-->
+<!--          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--          xsi:schemaLocation="http://dozer.sourceforge.net-->
+<!--      http://dozer.sourceforge.net/schema/beanmapping.xsd">-->
+
+<!--    <mapping>-->
+<!--        <class-a>com.acheron.employeeFormsolr.model.Employee</class-a>-->
+<!--        <class-b>com.acheron.employeeFormsolr.document.EmployeeDocument</class-b>-->
+<!--        <field>-->
+<!--            <a>employeeId</a>-->
+<!--            <b>employeeId</b>-->
+<!--        </field>-->
+<!--        <field>-->
+<!--            <a>employeeName</a>-->
+<!--            <b>employeeName</b>-->
+<!--        </field>-->
+<!--        <field>-->
+<!--            <a>designation</a>-->
+<!--            <b>designation</b>-->
+<!--        </field>-->
+<!--        <field>-->
+<!--            <a>phoneNumber</a>-->
+<!--            <b>phoneNumber</b>-->
+<!--        </field>-->
+<!--        <field>-->
+<!--            <a>gender</a>-->
+<!--            <b>gender</b>-->
+<!--        </field>-->
+<!--        <field>-->
+<!--            <a>salary</a>-->
+<!--            <b>salary</b>-->
+<!--        </field>-->
+<!--&lt;!&ndash;        <field>&ndash;&gt;-->
+<!--&lt;!&ndash;            <a>skills</a>&ndash;&gt;-->
+<!--&lt;!&ndash;            <b>skills</b>&ndash;&gt;-->
+<!--&lt;!&ndash;        </field>&ndash;&gt;-->
+<!--    </mapping>-->
+<!--</mappings>-->
